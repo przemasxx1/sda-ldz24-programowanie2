@@ -1,13 +1,13 @@
 package pl.sda.academy.intermediate.warmup.warmup12;
 
 import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class Basic7UserInput {
 
 
     public static void makeAnswer() {
+        System.out.println();
 
         String password = "kosa";
         String passwordVerificating = "";
